@@ -63,7 +63,7 @@
     </section>
 
   <section class="image-map">
-        <h2>Lists of my Favorite Emojis</h2>
+     <h2>Lists of my Favorite Emojis</h2>
     😀 Grinning <br>
     🚀 Rocket<br>
     🎉 Confetti<br>
